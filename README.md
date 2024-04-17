@@ -24,7 +24,7 @@ This portal is crafted to be a game-changer for restaurant owners seeking to dig
 👉 Connect for queries or more information!
 
 #restaurantmanagement #opensource #webdevelopment #hospitalityindustry #techinnovation
-![image](https://github.com/soundaryash/RestaurantPOS/assets/131743503/27d9a1ad-85c8-4de6-a99b-6ca029f26214)
+
 ![image](https://github.com/soundaryash/RestaurantPOS/assets/131743503/d30d5f93-be6f-4996-9539-cd3db0b84a5c)
 
-
+![image](https://github.com/soundaryash/RestaurantPOS/assets/131743503/27d9a1ad-85c8-4de6-a99b-6ca029f26214)
